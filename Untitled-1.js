@@ -6,16 +6,16 @@ lib.ssMetadata = [
 		{name:"Untitled_1_atlas_", frames: [[0,0,1280,720],[0,722,1280,720]]},
 		{name:"Untitled_1_atlas_2", frames: [[0,0,1280,720],[0,722,1280,720]]},
 		{name:"Untitled_1_atlas_3", frames: [[0,0,1280,720],[0,722,1280,720]]},
-		{name:"Untitled_1_atlas_4", frames: [[0,722,1223,621],[0,1345,1209,614],[0,0,1280,720]]},
-		{name:"Untitled_1_atlas_5", frames: [[0,0,1194,607],[0,609,1180,599],[0,1210,1165,592]]},
-		{name:"Untitled_1_atlas_6", frames: [[0,0,1151,585],[0,587,1137,577],[0,1166,1122,570]]},
-		{name:"Untitled_1_atlas_7", frames: [[0,0,1108,563],[0,565,1093,555],[0,1122,1079,548]]},
-		{name:"Untitled_1_atlas_8", frames: [[0,0,1064,541],[0,543,1050,533],[0,1078,1024,539]]},
-		{name:"Untitled_1_atlas_9", frames: [[0,0,1036,526],[0,528,1021,519],[1038,0,1007,511],[0,1049,595,842],[597,1049,595,842],[1194,513,595,842]]},
-		{name:"Untitled_1_atlas_10", frames: [[597,506,957,509],[597,0,992,504],[0,1017,978,497],[0,1516,963,489],[965,1516,949,482],[980,1017,935,475],[0,0,595,842]]},
-		{name:"Untitled_1_atlas_11", frames: [[836,1364,608,512],[0,0,920,467],[0,469,906,460],[908,469,891,453],[922,0,877,445],[908,924,862,438],[0,931,848,431],[0,1364,834,424]]},
-		{name:"Untitled_1_atlas_12", frames: [[1277,651,220,372],[1242,315,276,334],[1520,366,280,329],[610,0,926,313],[311,695,640,317],[637,1753,442,215],[953,695,322,288],[1538,0,409,364],[0,0,608,512],[1499,697,267,267],[610,315,630,378],[1267,1272,241,180],[0,514,309,773],[1802,366,229,238],[0,1306,1265,147],[966,1196,632,74],[1081,1877,690,87],[1081,1753,495,122],[311,1014,653,290],[0,1754,635,242],[0,1455,620,297],[966,1025,656,86],[966,1113,641,81],[1081,1966,656,80],[622,1455,1225,147],[622,1604,1225,147]]},
-		{name:"Untitled_1_atlas_13", frames: [[1216,541,151,79],[1294,622,82,18],[964,673,65,79],[801,590,80,153],[1196,853,159,58],[2019,211,25,54],[495,220,1,1],[1299,224,1,1],[1299,227,1,1],[1299,230,1,1],[1299,233,1,1],[1299,236,1,1],[1299,239,1,1],[1299,242,1,1],[1299,245,1,1],[1299,200,1,2],[1299,173,1,4],[494,243,2,1],[1299,179,1,4],[1024,304,16,10],[1299,248,1,1],[1962,115,2,2],[1037,333,3,1],[1031,333,4,1],[1024,316,6,2],[870,258,42,9],[2019,267,18,55],[464,274,18,55],[464,191,20,81],[771,897,61,82],[1357,853,72,89],[959,270,63,86],[1672,700,58,86],[1046,359,58,117],[1299,204,1,2],[1963,205,1,2],[1299,251,1,1],[633,427,36,11],[464,331,32,14],[1299,254,1,1],[1299,208,1,2],[486,202,8,8],[1024,291,15,11],[1299,257,1,1],[1299,260,1,1],[1299,263,1,1],[1299,266,1,1],[1299,185,1,3],[1299,190,1,3],[89,326,4,2],[540,125,3,9],[1299,269,1,1],[495,212,1,2],[1299,195,1,3],[486,223,6,10],[1039,270,1,1],[1299,272,1,1],[1941,205,11,3],[498,179,29,6],[1039,273,1,1],[1299,275,1,1],[1039,276,1,1],[1106,380,19,12],[1299,278,1,1],[486,249,9,3],[1106,394,19,6],[633,397,36,13],[1039,279,1,1],[1299,281,1,1],[1039,282,1,1],[1299,284,1,1],[1299,212,1,2],[495,216,1,2],[1299,216,1,2],[1962,119,2,2],[1962,123,2,2],[493,311,3,3],[1962,97,2,4],[540,136,3,9],[914,258,3,9],[1962,89,2,6],[486,212,7,9],[1766,314,64,15],[1024,270,13,19],[498,66,44,46],[1039,285,1,1],[1299,287,1,1],[1039,288,1,1],[1299,290,1,1],[494,246,2,1],[1038,320,2,1],[95,326,2,1],[95,329,2,1],[1031,324,3,3],[1024,328,4,2],[529,179,6,5],[1954,205,7,4],[1046,478,48,16],[1299,293,1,1],[95,332,2,1],[95,335,2,1],[1299,296,1,1],[1299,299,1,1],[1024,336,2,1],[1028,336,2,1],[1032,336,2,1],[1299,302,1,1],[1036,336,2,1],[1925,336,2,1],[1299,305,1,1],[89,337,2,1],[1294,337,2,1],[1298,337,2,1],[93,338,2,1],[1962,127,2,2],[1925,333,3,1],[1217,338,2,1],[1567,335,3,1],[494,223,2,2],[1567,338,2,1],[1571,338,2,1],[1572,335,3,1],[1577,335,3,1],[494,227,2,2],[89,334,4,1],[1294,334,4,1],[493,316,3,2],[1036,324,3,3],[484,328,5,1],[491,325,3,3],[494,231,2,2],[1217,335,4,1],[491,301,4,3],[492,306,4,3],[1024,333,5,1],[1024,320,5,2],[1031,320,5,2],[492,320,4,3],[484,324,5,2],[1030,329,4,2],[1024,324,5,2],[1036,329,4,2],[89,330,4,2],[1032,316,6,2],[484,320,6,2],[484,312,7,2],[540,147,4,4],[484,301,5,4],[486,235,6,5],[484,307,6,3],[484,316,7,2],[486,269,9,2],[540,114,4,9],[486,254,9,3],[486,242,6,5],[486,259,9,3],[486,264,9,3],[484,296,11,3],[538,177,6,8],[633,454,24,6],[486,191,10,9],[633,352,32,26],[633,440,25,12],[633,412,34,13],[1766,296,65,16],[498,154,38,23],[1224,334,47,42],[1855,333,68,15],[1910,350,18,20],[573,965,134,31],[498,114,40,38],[633,380,42,15],[870,238,48,18],[1855,350,53,19],[1216,622,76,22],[870,187,48,49],[923,958,134,39],[1951,25,12,17],[1930,205,9,4],[494,235,2,2],[1299,308,1,1],[1299,311,1,1],[1299,220,1,2],[494,239,2,2],[1962,103,2,4],[1962,109,2,4],[538,154,5,21],[1951,0,13,23],[484,274,11,20],[1042,0,85,357],[1224,173,73,159],[1966,0,82,209],[1930,171,32,32],[1979,776,55,161],[0,0,544,64],[1992,532,48,242],[546,0,186,185],[734,0,185,185],[1216,650,256,48],[1476,649,256,49],[737,897,32,160],[1584,171,123,123],[1709,171,123,123],[1562,612,170,32],[1196,944,170,32],[1855,373,84,157],[89,350,85,158],[1129,335,86,159],[1930,211,87,160],[192,191,88,161],[498,187,90,163],[1941,373,84,157],[1132,496,82,155],[1435,700,77,150],[1816,686,78,151],[164,667,79,152],[0,644,80,153],[633,503,82,155],[1655,454,83,156],[372,350,85,158],[496,820,75,148],[847,825,74,147],[1751,839,74,147],[581,814,76,149],[1514,700,77,150],[1896,686,78,151],[1734,649,80,153],[717,503,82,155],[1586,852,72,145],[1477,335,88,154],[682,347,88,154],[1584,296,89,156],[99,191,91,157],[682,187,92,158],[1834,171,94,160],[1389,171,96,162],[1567,454,86,152],[245,668,79,150],[82,667,80,151],[1826,532,81,152],[436,512,82,153],[1740,493,84,154],[265,354,85,156],[0,326,87,158],[964,807,77,148],[659,814,76,148],[418,819,76,148],[1593,700,77,150],[500,667,79,151],[604,660,80,152],[253,512,82,154],[862,432,84,156],[1435,852,74,146],[2046,211,2,167],[2040,267,2,167],[2019,324,19,19],[1273,334,19,19],[2019,345,19,19],[1273,355,19,19],[1106,359,19,19],[883,590,51,50],[1129,0,171,171],[1302,171,85,209],[99,66,201,123],[302,66,194,123],[1979,939,64,71],[2044,380,2,167],[1294,642,70,5],[1122,808,70,5],[2042,549,2,167],[0,66,97,258],[921,0,119,268],[1302,133,662,36],[1302,0,647,43],[1302,45,662,42],[176,354,87,154],[772,347,88,154],[1675,296,89,156],[372,191,90,157],[776,187,92,158],[1129,173,93,160],[1487,171,95,162],[1389,496,85,152],[883,673,79,150],[418,667,80,150],[1909,532,81,152],[520,512,82,153],[1046,496,84,154],[959,359,85,156],[1766,333,87,158],[1043,808,77,148],[157,821,75,148],[79,820,76,148],[768,745,77,150],[1195,700,78,151],[686,660,80,152],[948,517,81,154],[0,486,83,156],[1511,852,73,146],[1302,89,658,42],[1217,382,84,157],[459,352,85,158],[1389,335,86,159],[870,270,87,160],[282,191,88,161],[590,187,90,163],[1303,382,84,157],[85,510,82,155],[0,799,77,150],[1275,700,78,151],[337,667,79,152],[1031,652,80,153],[169,510,82,155],[1477,491,83,156],[546,352,85,158],[323,821,75,148],[1827,839,74,147],[1903,839,74,147],[245,820,76,148],[1672,804,77,150],[1355,700,78,151],[1113,653,80,153],[352,510,82,155],[1122,853,72,145],[801,503,58,61]]}
+		{name:"Untitled_1_atlas_4", frames: [[0,0,1223,621],[0,623,1209,614],[0,1239,1194,607]]},
+		{name:"Untitled_1_atlas_5", frames: [[0,0,1180,599],[0,601,1165,592],[0,1195,1151,585]]},
+		{name:"Untitled_1_atlas_6", frames: [[0,0,1137,577],[0,579,1122,570],[0,1151,1108,563]]},
+		{name:"Untitled_1_atlas_7", frames: [[0,0,1093,555],[0,557,1079,548],[0,1107,1064,541]]},
+		{name:"Untitled_1_atlas_8", frames: [[0,0,1050,533],[0,1076,1036,526],[0,535,1024,539]]},
+		{name:"Untitled_1_atlas_9", frames: [[0,0,1021,519],[0,521,1007,511],[0,1034,595,842],[597,1034,595,842],[1023,0,595,842],[1194,844,595,842]]},
+		{name:"Untitled_1_atlas_10", frames: [[994,0,957,509],[0,0,992,504],[0,506,978,497],[980,511,963,489],[980,1002,949,482],[0,1005,935,475],[0,1482,920,467],[922,1486,906,460]]},
+		{name:"Untitled_1_atlas_11", frames: [[836,1468,926,313],[893,440,608,512],[850,954,608,512],[0,0,891,453],[0,455,877,445],[893,0,862,438],[0,902,848,431],[0,1335,834,424],[1503,440,309,773]]},
+		{name:"Untitled_1_atlas_12", frames: [[971,1044,220,372],[411,1072,276,334],[689,1044,280,329],[632,0,640,317],[637,827,442,215],[0,1438,322,288],[1849,469,85,357],[1966,270,82,209],[1424,1009,544,64],[0,1072,409,364],[324,1438,186,185],[512,1408,185,185],[708,1603,123,123],[833,1603,123,123],[1836,1273,84,157],[726,1884,85,158],[548,1880,86,159],[1826,1432,87,160],[1919,828,88,161],[1053,1603,90,163],[1922,1233,84,157],[1416,1883,82,155],[1500,1886,82,155],[1685,1716,83,156],[813,1884,85,158],[1584,1886,82,155],[725,1728,88,154],[815,1728,88,154],[368,1890,89,156],[1425,1565,91,157],[1237,1603,92,158],[1936,645,94,160],[1821,828,96,162],[1597,1728,86,152],[1157,1886,84,154],[1851,1075,85,156],[548,1720,87,158],[1920,1750,82,154],[1511,1728,84,156],[699,1375,171,171],[0,1728,267,267],[1739,1432,85,209],[0,0,630,378],[1536,1432,201,123],[1578,827,241,180],[512,1595,194,123],[1193,951,229,238],[0,380,1265,147],[1193,1356,632,74],[1274,292,690,87],[1081,827,495,122],[269,1728,97,258],[1929,0,119,268],[1274,0,653,290],[708,1565,662,36],[872,1432,647,43],[872,1477,662,42],[1913,1594,87,154],[636,1889,88,154],[457,1720,89,156],[1608,1557,90,157],[1331,1603,92,158],[958,1603,93,160],[1936,481,95,162],[1329,1886,85,152],[1243,1886,84,154],[1938,1075,85,156],[459,1878,87,158],[987,1886,83,156],[872,1521,658,42],[0,828,635,242],[1915,1432,84,157],[900,1884,85,158],[637,1728,86,159],[368,1728,87,160],[1518,1565,88,161],[1145,1603,90,163],[1425,1724,84,157],[1668,1882,82,155],[1752,1874,82,155],[1072,1886,83,156],[1826,1594,85,158],[1836,1754,82,155],[0,529,620,297],[1267,381,656,86],[1193,1273,641,81],[1193,1191,656,80],[622,529,1225,147],[622,678,1225,147]]},
+		{name:"Untitled_1_atlas_13", frames: [[167,204,151,79],[167,285,82,18],[725,0,65,79],[0,361,80,153],[609,595,159,58],[338,365,25,54],[606,485,1,1],[606,488,1,1],[606,491,1,1],[606,494,1,1],[606,497,1,1],[606,500,1,1],[606,503,1,1],[687,147,1,1],[690,147,1,1],[634,1013,1,2],[740,580,1,4],[745,144,2,1],[479,657,1,4],[453,657,16,10],[693,147,1,1],[56,1020,2,2],[527,353,3,1],[584,300,4,1],[0,1020,6,2],[164,974,42,9],[722,235,18,55],[617,956,18,55],[710,655,20,81],[743,397,61,82],[636,655,72,89],[722,147,63,86],[743,481,58,86],[683,461,58,117],[606,453,1,2],[606,457,1,2],[696,147,1,1],[244,972,36,11],[338,421,32,14],[699,147,1,1],[606,461,1,2],[677,954,8,8],[617,1013,15,11],[702,147,1,1],[705,147,1,1],[708,147,1,1],[711,147,1,1],[479,663,1,3],[50,981,1,3],[526,313,4,2],[512,345,3,9],[714,147,1,1],[606,465,1,2],[53,981,1,3],[471,657,6,10],[717,147,1,1],[496,150,1,1],[636,800,11,3],[413,356,29,6],[499,150,1,1],[502,150,1,1],[505,150,1,1],[386,1012,19,12],[508,150,1,1],[662,800,9,3],[691,796,19,6],[482,956,36,13],[511,150,1,1],[514,150,1,1],[517,150,1,1],[520,150,1,1],[606,469,1,2],[606,473,1,2],[606,477,1,2],[60,1020,2,2],[64,1020,2,2],[30,981,3,3],[732,580,2,4],[517,345,3,9],[522,345,3,9],[527,345,2,6],[597,495,7,9],[691,779,64,15],[588,978,13,19],[785,81,44,46],[523,150,1,1],[526,150,1,1],[529,150,1,1],[532,150,1,1],[749,144,2,1],[753,144,2,1],[757,144,2,1],[761,144,2,1],[35,981,3,3],[526,317,4,2],[634,1017,6,5],[733,292,7,4],[637,999,48,16],[535,150,1,1],[765,144,2,1],[769,144,2,1],[538,150,1,1],[541,150,1,1],[773,144,2,1],[777,144,2,1],[781,144,2,1],[544,150,1,1],[651,147,2,1],[655,147,2,1],[547,150,1,1],[659,147,2,1],[663,147,2,1],[667,147,2,1],[671,147,2,1],[68,1020,2,2],[725,144,3,1],[675,147,2,1],[730,144,3,1],[72,1020,2,2],[679,147,2,1],[683,147,2,1],[735,144,3,1],[740,144,3,1],[76,1020,2,2],[590,300,4,1],[596,300,4,1],[526,333,3,2],[40,981,3,3],[570,300,5,1],[45,981,3,3],[80,1020,2,2],[602,300,4,1],[684,800,4,3],[526,303,4,3],[577,300,5,1],[24,1020,5,2],[31,1020,5,2],[526,308,4,3],[38,1020,5,2],[526,321,4,2],[45,1020,5,2],[526,325,4,2],[526,329,4,2],[8,1020,6,2],[16,1020,6,2],[712,796,7,2],[726,580,4,4],[719,580,5,4],[642,1017,6,5],[22,981,6,3],[712,800,7,2],[710,804,9,2],[506,345,4,9],[673,800,9,3],[650,1017,6,5],[0,981,9,3],[11,981,9,3],[649,800,11,3],[82,976,6,8],[506,337,24,6],[585,495,10,9],[687,954,32,26],[282,972,25,12],[683,580,34,13],[785,129,65,16],[637,954,38,23],[539,956,47,42],[743,569,68,15],[588,956,18,20],[636,746,134,31],[344,986,40,38],[687,982,42,15],[637,979,48,18],[636,779,53,19],[539,1000,76,22],[425,153,48,49],[403,971,134,39],[492,337,12,17],[722,292,9,4],[84,1020,2,2],[550,150,1,1],[553,150,1,1],[606,481,1,2],[88,1020,2,2],[736,580,2,4],[52,1020,2,4],[251,285,5,21],[386,986,13,23],[603,978,11,20],[338,204,73,159],[492,303,32,32],[685,298,55,161],[324,438,48,242],[167,154,256,48],[0,310,256,49],[742,235,32,160],[0,986,170,32],[172,986,170,32],[324,682,77,150],[164,821,78,151],[82,516,79,152],[0,516,80,153],[532,303,75,148],[482,807,74,147],[558,807,74,147],[453,506,76,149],[324,834,77,150],[244,513,78,151],[0,671,80,153],[651,0,72,145],[164,361,79,150],[414,0,80,151],[84,156,81,152],[0,0,82,153],[403,821,77,148],[492,153,76,148],[496,0,76,148],[374,365,77,150],[163,516,79,151],[250,0,80,152],[609,300,74,146],[721,796,2,167],[725,796,2,167],[585,453,19,19],[585,474,19,19],[687,999,19,19],[708,999,19,19],[729,999,19,19],[532,453,51,50],[245,438,64,71],[729,796,2,167],[710,738,70,5],[719,586,70,5],[733,796,2,167],[163,669,79,150],[82,824,80,150],[167,0,81,152],[0,155,82,153],[453,356,77,148],[570,150,75,148],[482,657,76,148],[413,204,77,150],[258,285,78,151],[332,0,80,152],[84,0,81,154],[647,150,73,146],[374,517,77,150],[244,666,78,151],[82,670,79,152],[0,826,80,153],[574,0,75,148],[560,656,74,147],[634,805,74,147],[531,506,76,148],[403,669,77,150],[244,819,78,151],[82,361,80,153],[609,448,72,145],[725,81,58,61]]}
 ];
 
 
@@ -80,8 +80,8 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_399 = function() {
-	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(3);
+	this.initialize(ss["Untitled_1_atlas_11"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -746,7 +746,7 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_304 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1306,14 +1306,14 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_223 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(5);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_222 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(6);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1403,99 +1403,99 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_207 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(189);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_206 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(190);
+	this.gotoAndStop(189);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_205 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(191);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_204 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(192);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_203 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(193);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_202 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(194);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedBmp_201 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_200 = function() {
-	this.initialize(ss["Untitled_1_atlas_11"]);
-	this.gotoAndStop(0);
+(lib.CachedBmp_204 = function() {
+	this.initialize(ss["Untitled_1_atlas_13"]);
+	this.gotoAndStop(190);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedBmp_199 = function() {
+(lib.CachedBmp_203 = function() {
+	this.initialize(ss["Untitled_1_atlas_13"]);
+	this.gotoAndStop(191);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_202 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
+(lib.CachedBmp_201 = function() {
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(9);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_200 = function() {
+	this.initialize(ss["Untitled_1_atlas_11"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedBmp_199 = function() {
+	this.initialize(ss["Untitled_1_atlas_11"]);
+	this.gotoAndStop(2);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.CachedBmp_198 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(195);
+	this.gotoAndStop(192);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_197 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(196);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_196 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(197);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_195 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(198);
+	this.gotoAndStop(193);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_194 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(199);
+	this.gotoAndStop(194);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1515,99 +1515,99 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_191 = function() {
-	this.initialize(ss["Untitled_1_atlas_5"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["Untitled_1_atlas_4"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_190 = function() {
 	this.initialize(ss["Untitled_1_atlas_5"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_189 = function() {
 	this.initialize(ss["Untitled_1_atlas_5"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_188 = function() {
-	this.initialize(ss["Untitled_1_atlas_6"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["Untitled_1_atlas_5"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_187 = function() {
 	this.initialize(ss["Untitled_1_atlas_6"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_186 = function() {
 	this.initialize(ss["Untitled_1_atlas_6"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_185 = function() {
-	this.initialize(ss["Untitled_1_atlas_7"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["Untitled_1_atlas_6"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_184 = function() {
 	this.initialize(ss["Untitled_1_atlas_7"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_183 = function() {
 	this.initialize(ss["Untitled_1_atlas_7"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_182 = function() {
-	this.initialize(ss["Untitled_1_atlas_8"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["Untitled_1_atlas_7"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_181 = function() {
 	this.initialize(ss["Untitled_1_atlas_8"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_180 = function() {
-	this.initialize(ss["Untitled_1_atlas_9"]);
-	this.gotoAndStop(0);
+	this.initialize(ss["Untitled_1_atlas_8"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_179 = function() {
 	this.initialize(ss["Untitled_1_atlas_9"]);
-	this.gotoAndStop(1);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_178 = function() {
 	this.initialize(ss["Untitled_1_atlas_9"]);
-	this.gotoAndStop(2);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1648,15 +1648,15 @@ lib.ssMetadata = [
 
 
 (lib.CachedBmp_172 = function() {
-	this.initialize(ss["Untitled_1_atlas_11"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["Untitled_1_atlas_10"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_171 = function() {
-	this.initialize(ss["Untitled_1_atlas_11"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["Untitled_1_atlas_10"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1698,476 +1698,476 @@ lib.ssMetadata = [
 
 (lib.CachedBmp_165 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(200);
+	this.gotoAndStop(195);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_164 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(201);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_163 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(202);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_162 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(203);
+	this.gotoAndStop(196);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_161 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(204);
+	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_157 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(205);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_156 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(206);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_155 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(207);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_154 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(208);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_153 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(209);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_152 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(210);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_151 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(211);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_150 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(212);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_149 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(213);
+	this.gotoAndStop(198);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_148 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(214);
+	this.gotoAndStop(199);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_147 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(215);
+	this.gotoAndStop(200);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_146 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(216);
+	this.gotoAndStop(201);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_145 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(217);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_144 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(218);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_143 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(219);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_142 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(220);
+	this.gotoAndStop(202);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_141 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(221);
+	this.gotoAndStop(203);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_140 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(222);
+	this.gotoAndStop(204);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_139 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(223);
+	this.gotoAndStop(205);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_138 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(224);
+	this.gotoAndStop(206);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_137 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(225);
+	this.gotoAndStop(207);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_136 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(226);
+	this.gotoAndStop(208);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_135 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(227);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_134 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(228);
+	this.gotoAndStop(209);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_132 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(229);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_131 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(230);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_130 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(231);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_129 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(232);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_128 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(233);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_127 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(234);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_126 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(235);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_125 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(236);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_124 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(237);
+	this.gotoAndStop(210);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_123 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(238);
+	this.gotoAndStop(211);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_122 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(239);
+	this.gotoAndStop(212);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_121 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(240);
+	this.gotoAndStop(213);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_120 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(241);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_119 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(242);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_118 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(243);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_117 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(244);
+	this.gotoAndStop(214);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_116 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(245);
+	this.gotoAndStop(215);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_115 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(246);
+	this.gotoAndStop(216);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_114 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(247);
+	this.gotoAndStop(217);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_113 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(248);
+	this.gotoAndStop(218);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_112 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(249);
+	this.gotoAndStop(219);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_111 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(250);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_110 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(251);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_109 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(252);
+	this.gotoAndStop(220);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_101 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(253);
+	this.gotoAndStop(221);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_98 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(254);
+	this.gotoAndStop(222);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_91 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(255);
+	this.gotoAndStop(223);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_89 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(256);
+	this.gotoAndStop(224);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_88 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(257);
+	this.gotoAndStop(225);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_90 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(258);
+	this.gotoAndStop(226);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_86 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(259);
+	this.gotoAndStop(227);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_85 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(260);
+	this.gotoAndStop(228);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_84 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(261);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_83 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(9);
+	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_82 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(262);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_81 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(10);
+	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_80 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(263);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_79 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(11);
+	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_78 = function() {
-	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(12);
+	this.initialize(ss["Untitled_1_atlas_11"]);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2179,512 +2179,512 @@ p.nominalBounds = new cjs.Rectangle(0,0,2563,444);
 
 
 (lib.CachedBmp_75 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(264);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_74 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(13);
+	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_73 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(14);
+	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_72 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(15);
+	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_92 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(16);
+	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_94 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(17);
+	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_93 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(265);
+	this.gotoAndStop(229);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_66 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(266);
+	this.gotoAndStop(230);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_103 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(267);
+	this.gotoAndStop(231);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_99 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(268);
+	this.gotoAndStop(232);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_63 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(269);
+	this.gotoAndStop(233);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_97 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(270);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_96 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(271);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_95 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(18);
+	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_106 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(272);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_105 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(273);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_104 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(274);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_56 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(275);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_55 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(276);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_54 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(277);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_53 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(278);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_52 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(279);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_51 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(280);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_50 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(281);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_49 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(282);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_48 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(283);
+	this.gotoAndStop(234);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_47 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(284);
+	this.gotoAndStop(235);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_46 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(285);
+	this.gotoAndStop(236);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_45 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(286);
+	this.gotoAndStop(237);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_44 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(287);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_43 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(288);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_42 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(289);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_41 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(290);
+	this.gotoAndStop(238);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_40 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(291);
+	this.gotoAndStop(239);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_39 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(292);
+	this.gotoAndStop(240);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_38 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(293);
+	this.gotoAndStop(241);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_37 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(294);
+	this.gotoAndStop(242);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_36 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(295);
+	this.gotoAndStop(243);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_35 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(296);
+	this.gotoAndStop(244);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_34 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(297);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_33 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(298);
+	this.gotoAndStop(245);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_108 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(299);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_107 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(19);
+	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_30 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(300);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_29 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(301);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_28 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(302);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_27 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(303);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_26 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(304);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(75);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_25 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(305);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_24 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(306);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_23 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(307);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_22 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(308);
+	this.gotoAndStop(246);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_21 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(309);
+	this.gotoAndStop(247);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_20 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(310);
+	this.gotoAndStop(248);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_19 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(311);
+	this.gotoAndStop(249);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_18 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(312);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_17 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(313);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_16 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(314);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_15 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(315);
+	this.gotoAndStop(250);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_14 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(316);
+	this.gotoAndStop(251);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_13 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(317);
+	this.gotoAndStop(252);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_12 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(318);
+	this.gotoAndStop(253);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_11 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(319);
+	this.gotoAndStop(254);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_10 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(320);
+	this.gotoAndStop(255);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_9 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(321);
+	this.gotoAndStop(256);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_8 = function() {
-	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(322);
+	this.initialize(ss["Untitled_1_atlas_12"]);
+	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_7 = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(323);
+	this.gotoAndStop(257);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_133 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(20);
+	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_160 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(21);
+	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_159 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(22);
+	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_158 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(23);
+	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_2 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(24);
+	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedBmp_1 = function() {
 	this.initialize(ss["Untitled_1_atlas_12"]);
-	this.gotoAndStop(25);
+	this.gotoAndStop(88);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2726,21 +2726,21 @@ p.nominalBounds = new cjs.Rectangle(0,0,2563,444);
 
 (lib.hand = function() {
 	this.initialize(ss["Untitled_1_atlas_9"]);
-	this.gotoAndStop(3);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Hand_2pngcopy = function() {
 	this.initialize(ss["Untitled_1_atlas_9"]);
-	this.gotoAndStop(4);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.one = function() {
 	this.initialize(ss["Untitled_1_atlas_9"]);
-	this.gotoAndStop(5);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2760,7 +2760,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2480,3508);
 
 (lib.איקוןלחוץ = function() {
 	this.initialize(ss["Untitled_1_atlas_13"]);
-	this.gotoAndStop(324);
+	this.gotoAndStop(258);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -2779,15 +2779,8 @@ p.nominalBounds = new cjs.Rectangle(0,0,2480,3508);
 
 
 (lib.דמות_2 = function() {
-	this.initialize(ss["Untitled_1_atlas_10"]);
-	this.gotoAndStop(6);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.פתיחה_3 = function() {
-	this.initialize(ss["Untitled_1_atlas_4"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["Untitled_1_atlas_9"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3739,12 +3732,13 @@ p.nominalBounds = new cjs.Rectangle(-4.2,-4.5,8.5,9);
 
 	// Layer_1
 	this.instance = new lib.start();
+	this.instance.setTransform(-522,395);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	this._renderFirstFrame();
 
-}).prototype = getMCSymbolPrototype(lib.Symbol7, new cjs.Rectangle(0,0,1280,720), null);
+}).prototype = getMCSymbolPrototype(lib.Symbol7, new cjs.Rectangle(-522,395,1280,720), null);
 
 
 (lib.Symbol1 = function(mode,startPosition,loop) {
@@ -3784,27 +3778,6 @@ p.nominalBounds = new cjs.Rectangle(-4.2,-4.5,8.5,9);
 
 }).prototype = p = new cjs.MovieClip();
 p.nominalBounds = new cjs.Rectangle(0,0,133.5,133.5);
-
-
-(lib.Scene_1_רקע_פתיחה = function(mode,startPosition,loop) {
-	this.initialize(mode,startPosition,loop,{});
-
-	// רקע_פתיחה
-	this.instance = new lib.CachedBmp_80();
-	this.instance.setTransform(773.5,531.45,0.5,0.5);
-
-	this.instance_1 = new lib.CachedBmp_79();
-	this.instance_1.setTransform(804.4,555.25,0.5,0.5);
-
-	this.instance_2 = new lib.פתיחה_3();
-
-	this.instance_3 = new lib.start();
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_3}]},1).wait(210));
-
-	this._renderFirstFrame();
-
-}).prototype = p = new cjs.MovieClip();
 
 
 (lib.Scene_1_חץ = function(mode,startPosition,loop) {
@@ -4203,9 +4176,9 @@ p.nominalBounds = new cjs.Rectangle(-641,-361,1282,722);
 
 	// Layer_4
 	this.instance_4 = new lib.Symbol15();
-	this.instance_4.setTransform(1145.7,24.45,0.7657,0.7657,0,0,0,97.9,50.8);
+	this.instance_4.setTransform(1145.7,24.5,0.7657,0.7657,0,0,0,97.9,50.8);
 
-	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(1).to({regY:51.6,x:1144.1,y:25.2},0).wait(1).to({x:1142.55,y:25.35},0).wait(1).to({x:1141,y:25.45},0).wait(1).to({x:1139.4,y:25.6},0).wait(1).to({x:1137.85,y:25.7},0).wait(1).to({x:1136.3,y:25.85},0).wait(1).to({x:1134.7,y:25.95},0).wait(1).to({x:1133.15,y:26.1},0).wait(1).to({x:1131.6,y:26.2},0).wait(1).to({x:1130.05,y:26.35},0).wait(1).to({x:1128.45,y:26.5},0).wait(1).to({x:1126.9,y:26.6},0).wait(1).to({x:1125.35,y:26.75},0).wait(1).to({x:1123.75,y:26.85},0).wait(1).to({x:1122.2,y:27},0).wait(1).to({x:1120.65,y:27.1},0).wait(1).to({x:1119.05,y:27.25},0).wait(1).to({x:1117.5,y:27.35},0).wait(1).to({x:1115.95,y:27.5},0).wait(1).to({x:1114.4,y:27.6},0).wait(1).to({x:1112.8,y:27.75},0).wait(1).to({x:1111.25,y:27.9},0).wait(1).to({x:1109.7,y:28},0).wait(1).to({x:1108.1,y:28.15},0).wait(1).to({x:1106.55,y:28.25},0).wait(1).to({x:1105,y:28.4},0).wait(1).to({x:1103.4,y:28.5},0).wait(1).to({x:1101.85,y:28.65},0).wait(1).to({x:1100.3,y:28.75},0).wait(1).to({x:1098.75,y:28.9},0).wait(1).to({x:1097.15,y:29},0).wait(1).to({x:1095.6,y:29.15},0).wait(1).to({x:1094.05,y:29.3},0).wait(1).to({x:1092.45,y:29.4},0).wait(1).to({x:1090.9,y:29.55},0).wait(1).to({x:1089.35,y:29.65},0).wait(1).to({x:1087.75,y:29.8},0).wait(1).to({x:1086.2,y:29.9},0).wait(1).to({x:1084.65,y:30.05},0).wait(1).to({x:1083.1,y:30.15},0).wait(1).to({x:1081.5,y:30.3},0).wait(1).to({x:1079.95,y:30.4},0).wait(1).to({x:1078.4,y:30.55},0).wait(1).to({x:1076.8,y:30.7},0).wait(1).to({x:1075.25,y:30.8},0).wait(1).to({x:1073.7,y:30.95},0).wait(1).to({x:1072.15,y:31.05},0).wait(1).to({x:1070.55,y:31.2},0).wait(1).to({x:1069,y:31.3},0).wait(1).to({x:1067.45,y:31.45},0).wait(1).to({x:1065.85,y:31.55},0).wait(1).to({x:1064.3,y:31.7},0).wait(1).to({x:1062.75,y:31.85},0).wait(1).to({x:1061.15,y:31.95},0).wait(1).to({x:1059.6,y:32.1},0).wait(1).to({x:1058.05,y:32.2},0).wait(1).to({x:1056.5,y:32.35},0).wait(1).to({x:1054.9,y:32.45},0).wait(1).to({x:1053.35,y:32.6},0).wait(1).to({x:1051.8,y:32.7},0).wait(1).to({x:1050.2,y:32.85},0).wait(1).to({x:1048.65,y:32.95},0).wait(1).to({x:1047.1,y:33.1},0).wait(1).to({x:1045.5,y:33.25},0).wait(1).to({x:1043.95,y:33.35},0).wait(1).to({x:1042.4,y:33.5},0).wait(1).to({x:1040.85,y:33.6},0).wait(1).to({x:1039.25,y:33.75},0).wait(1).to({x:1037.7,y:33.85},0).wait(1).to({x:1036.15,y:34},0).wait(1).to({x:1034.55,y:34.1},0).wait(1).to({x:1033,y:34.25},0).wait(1).to({x:1031.45,y:34.35},0).wait(1).to({x:1029.85,y:34.5},0).wait(1).to({x:1028.3,y:34.65},0).wait(1).to({x:1026.75,y:34.75},0).wait(1).to({x:1025.2,y:34.9},0).wait(1).to({x:1023.6,y:35},0).wait(1).to({x:1022.05,y:35.15},0).wait(1).to({x:1020.5,y:35.25},0).wait(1).to({x:1018.9,y:35.4},0).wait(1).to({x:1017.35,y:35.5},0).wait(1).to({x:1015.8,y:35.65},0).wait(1).to({x:1014.25,y:35.8},0).wait(1).to({x:1012.65,y:35.9},0).wait(1).to({x:1011.1,y:36.05},0).wait(1).to({x:1009.55,y:36.15},0).wait(1).to({x:1007.95,y:36.3},0).wait(1).to({x:1006.4,y:36.4},0).wait(1).to({x:1004.85,y:36.55},0).wait(1).to({x:1003.25,y:36.65},0).wait(1).to({x:1001.7,y:36.8},0).wait(1).to({x:1000.15,y:36.9},0).wait(1).to({x:998.6,y:37.05},0).wait(1).to({x:997,y:37.2},0).wait(1).to({x:995.45,y:37.3},0).wait(1).to({x:993.9,y:37.45},0).wait(1).to({x:992.3,y:37.55},0).wait(1).to({x:990.75,y:37.7},0).wait(1).to({x:989.2,y:37.8},0).wait(1).to({x:987.6,y:37.95},0).wait(1).to({x:986.05,y:38.05},0).wait(1).to({x:984.5,y:38.2},0).wait(1).to({x:982.95,y:38.3},0).wait(1).to({x:981.35,y:38.45},0).wait(1).to({x:979.8,y:38.6},0).wait(1).to({x:978.25,y:38.7},0).wait(1).to({x:976.65,y:38.85},0).wait(1).to({x:975.1,y:38.95},0).wait(1).to({x:973.55,y:39.1},0).wait(1).to({x:971.95,y:39.2},0).wait(1).to({x:970.4,y:39.35},0).wait(1).to({x:968.85,y:39.45},0).wait(1).to({x:967.3,y:39.55},0).wait(1).to({x:965.7,y:39.7},0).wait(1).to({x:964.15,y:39.8},0).wait(1).to({x:962.6,y:39.95},0).wait(1).to({x:961,y:40.05},0).wait(1).to({x:959.45,y:40.2},0).wait(1).to({x:957.9,y:40.3},0).wait(1).to({x:956.35,y:40.45},0).wait(1).to({x:954.75,y:40.55},0).wait(1).to({x:953.2,y:40.7},0).wait(1).to({x:951.65,y:40.8},0).wait(1).to({x:950.05,y:40.95},0).wait(1).to({x:948.5,y:41.1},0).wait(1).to({x:946.95,y:41.2},0).wait(1).to({x:945.35,y:41.35},0).wait(1).to({x:943.8,y:41.45},0).wait(1).to({x:942.25,y:41.6},0).wait(1).to({x:940.7,y:41.7},0).wait(1).to({x:939.1,y:41.85},0).wait(1).to({x:937.55,y:41.95},0).wait(1).to({x:936,y:42.1},0).wait(1).to({x:934.4,y:42.2},0).wait(1).to({x:932.85,y:42.35},0).wait(1).to({x:931.3,y:42.5},0).wait(1).to({x:929.7,y:42.6},0).wait(1).to({x:928.15,y:42.75},0).wait(1).to({x:926.6,y:42.85},0).wait(1).to({x:925.05,y:43},0).wait(1).to({x:923.45,y:43.1},0).wait(1).to({x:921.9,y:43.25},0).wait(1).to({x:920.35,y:43.35},0).wait(1).to({x:918.75,y:43.5},0).wait(1).to({x:917.2,y:43.6},0).wait(1).to({x:915.65,y:43.75},0).wait(1).to({x:914.1,y:43.9},0).wait(1).to({x:912.5,y:44},0).wait(1).to({x:910.95,y:44.15},0).wait(1).to({x:909.4,y:44.25},0).wait(1).to({x:907.8,y:44.4},0).wait(1).to({x:906.25,y:44.5},0).wait(1).to({x:904.7,y:44.65},0).wait(1).to({x:903.1,y:44.75},0).wait(1).to({x:901.55,y:44.9},0).wait(1).to({x:900,y:45.05},0).wait(1).to({x:898.45,y:45.15},0).wait(1).to({x:896.85,y:45.3},0).wait(1).to({x:895.3,y:45.4},0).wait(1).to({x:893.75,y:45.55},0).wait(1).to({x:892.15,y:45.65},0).wait(1).to({x:890.6,y:45.8},0).wait(1).to({x:889.05,y:45.9},0).wait(1).to({x:887.45,y:46.05},0).wait(1).to({x:885.9,y:46.15},0).wait(1).to({x:884.35,y:46.3},0).wait(1).to({x:882.8,y:46.45},0).wait(1).to({x:881.2,y:46.55},0).wait(1).to({x:879.65,y:46.7},0).wait(1).to({x:878.1,y:46.8},0).wait(1).to({x:876.5,y:46.95},0).wait(1).to({x:874.95,y:47.05},0).wait(1).to({x:873.4,y:47.2},0).wait(1).to({x:871.8,y:47.3},0).wait(1).to({x:870.25,y:47.45},0).wait(1).to({x:868.7,y:47.55},0).wait(1).to({x:867.15,y:47.7},0).wait(1).to({x:865.55,y:47.85},0).wait(1).to({x:864,y:47.95},0).wait(1).to({x:862.45,y:48.1},0).wait(1).to({x:860.85,y:48.2},0).wait(1).to({x:859.3,y:48.35},0).wait(1).to({x:857.75,y:48.45},0).wait(1).to({x:856.2,y:48.6},0).wait(1).to({x:854.6,y:48.7},0).wait(1).to({x:853.05,y:48.85},0).wait(1).to({x:851.5,y:49},0).wait(1).to({x:849.9,y:49.1},0).wait(1).to({x:848.35,y:49.25},0).wait(1).to({x:846.8,y:49.35},0).wait(1).to({x:845.2,y:49.5},0).wait(1).to({x:843.65,y:49.6},0).wait(1).to({x:842.1,y:49.75},0).wait(1).to({x:840.55,y:49.85},0).wait(1).to({x:838.95,y:50},0).wait(1).to({x:837.4,y:50.1},0).wait(1).to({x:835.85,y:50.25},0).wait(1).to({x:834.25,y:50.4},0).wait(1).to({x:832.7,y:50.5},0).wait(1).to({x:831.15,y:50.65},0).wait(1).to({x:829.55,y:50.75},0).wait(1).to({x:828,y:50.9},0).wait(1).to({x:826.45,y:51},0).wait(1).to({x:824.9,y:51.15},0).wait(1).to({x:823.3,y:51.25},0).wait(1).to({x:821.75,y:51.4},0).wait(1).to({x:820.2,y:51.5},0).wait(1).to({x:818.6,y:51.65},0).wait(1).to({x:817.05,y:51.8},0).wait(1).to({x:815.5,y:51.9},0).wait(1).to({x:813.9,y:52.05},0).wait(1).to({x:812.35,y:52.15},0).wait(1).to({x:810.8,y:52.3},0).wait(1).to({x:809.25,y:52.4},0).wait(1).to({x:807.65,y:52.55},0).wait(1).to({x:806.1,y:52.65},0).wait(1).to({x:804.55,y:52.8},0).wait(1).to({x:802.95,y:52.9},0).wait(1).to({x:801.4,y:53.05},0).wait(1).to({x:799.85,y:53.2},0).wait(1).to({x:798.3,y:53.3},0).wait(1).to({x:796.7,y:53.45},0).wait(1).to({x:795.15,y:53.55},0).wait(1).to({x:793.6,y:53.7},0).wait(1).to({x:792,y:53.8},0).wait(1).to({x:790.45,y:53.95},0).wait(1).to({x:788.9,y:54.05},0).wait(1).to({x:787.3,y:54.2},0).wait(1).to({x:785.75,y:54.35},0).wait(1).to({x:784.2,y:54.45},0).wait(1).to({x:782.65,y:54.6},0).wait(1).to({x:781.05,y:54.7},0).wait(1).to({x:779.5,y:54.85},0).wait(1).to({x:777.95,y:54.95},0).wait(1).to({x:776.35,y:55.1},0).wait(1).to({x:774.8,y:55.2},0).wait(1).to({x:773.25,y:55.35},0).wait(1).to({x:771.65,y:55.45},0).wait(1).to({x:770.1,y:55.6},0).wait(1).to({x:768.55,y:55.75},0).wait(1).to({x:767,y:55.85},0).wait(1).to({x:765.4,y:56},0).wait(1).to({x:763.85,y:56.1},0).wait(1).to({x:762.3,y:56.25},0).wait(1).to({x:760.7,y:56.35},0).wait(1).to({x:759.15,y:56.5},0).wait(1).to({x:757.6,y:56.6},0).wait(1).to({x:756.05,y:56.75},0).wait(1).to({x:754.45,y:56.85},0).wait(1).to({x:752.9,y:57},0).wait(1).to({x:751.35,y:57.15},0).wait(1).to({x:749.75,y:57.25},0).wait(1).to({x:748.2,y:57.4},0).wait(1).to({x:746.65,y:57.5},0).wait(1).to({x:745.05,y:57.65},0).wait(1).to({x:743.5,y:57.75},0).wait(1).to({x:741.95,y:57.9},0).wait(1).to({x:740.4,y:58},0).wait(1).to({x:738.8,y:58.15},0).wait(1).to({x:737.25,y:58.3},0).wait(1).to({x:735.7,y:58.4},0).wait(1).to({x:734.1,y:58.55},0).wait(1).to({x:732.55,y:58.65},0).wait(1).to({x:731,y:58.8},0).wait(1).to({x:729.4,y:58.9},0).wait(1).to({x:727.85,y:59.05},0).wait(1).to({x:726.3,y:59.15},0).wait(1).to({x:724.75,y:59.3},0).wait(1).to({x:723.15,y:59.4},0).wait(1).to({x:721.6,y:59.55},0).wait(1).to({x:720.05,y:59.7},0).wait(1).to({x:718.45,y:59.8},0).wait(1).to({x:716.9,y:59.95},0).wait(1).to({x:715.35,y:60.05},0).wait(1).to({x:713.75,y:60.2},0).wait(1).to({x:712.2,y:60.3},0).wait(1).to({x:710.65,y:60.45},0).wait(1).to({x:709.1,y:60.55},0).wait(1).to({x:707.5,y:60.7},0).wait(1).to({x:705.95,y:60.8},0).wait(1).to({x:704.4,y:60.95},0).wait(1).to({x:702.8,y:61.1},0).wait(1).to({x:701.25,y:61.2},0).wait(1).to({x:699.7,y:61.35},0).wait(1).to({x:698.15,y:61.45},0).wait(1).to({x:696.55,y:61.6},0).wait(1).to({x:695,y:61.7},0).wait(1).to({x:693.45,y:61.85},0).wait(1).to({x:691.85,y:61.95},0).wait(1).to({x:690.3,y:62.1},0).wait(1).to({x:688.75,y:62.2},0).wait(1).to({x:687.15,y:62.35},0).wait(1).to({x:685.6,y:62.5},0).wait(1).to({x:684.05,y:62.6},0).wait(1).to({x:682.5,y:62.75},0).wait(1).to({x:680.9,y:62.85},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_4).wait(1).to({regY:51.6,x:1144.1,y:25.25},0).wait(1).to({x:1142.55,y:25.4},0).wait(1).to({x:1141,y:25.5},0).wait(1).to({x:1139.4,y:25.65},0).wait(1).to({x:1137.85,y:25.75},0).wait(1).to({x:1136.3,y:25.9},0).wait(1).to({x:1134.7,y:26},0).wait(1).to({x:1133.15,y:26.15},0).wait(1).to({x:1131.6,y:26.25},0).wait(1).to({x:1130.05,y:26.4},0).wait(1).to({x:1128.45,y:26.55},0).wait(1).to({x:1126.9,y:26.65},0).wait(1).to({x:1125.35,y:26.8},0).wait(1).to({x:1123.75,y:26.9},0).wait(1).to({x:1122.2,y:27.05},0).wait(1).to({x:1120.65,y:27.15},0).wait(1).to({x:1119.05,y:27.3},0).wait(1).to({x:1117.5,y:27.4},0).wait(1).to({x:1115.95,y:27.55},0).wait(1).to({x:1114.4,y:27.65},0).wait(1).to({x:1112.8,y:27.8},0).wait(1).to({x:1111.25,y:27.95},0).wait(1).to({x:1109.7,y:28.05},0).wait(1).to({x:1108.1,y:28.2},0).wait(1).to({x:1106.55,y:28.3},0).wait(1).to({x:1105,y:28.45},0).wait(1).to({x:1103.4,y:28.55},0).wait(1).to({x:1101.85,y:28.7},0).wait(1).to({x:1100.3,y:28.8},0).wait(1).to({x:1098.75,y:28.95},0).wait(1).to({x:1097.15,y:29.05},0).wait(1).to({x:1095.6,y:29.2},0).wait(1).to({x:1094.05,y:29.35},0).wait(1).to({x:1092.45,y:29.45},0).wait(1).to({x:1090.9,y:29.6},0).wait(1).to({x:1089.35,y:29.7},0).wait(1).to({x:1087.75,y:29.85},0).wait(1).to({x:1086.2,y:29.95},0).wait(1).to({x:1084.65,y:30.1},0).wait(1).to({x:1083.1,y:30.2},0).wait(1).to({x:1081.5,y:30.35},0).wait(1).to({x:1079.95,y:30.45},0).wait(1).to({x:1078.4,y:30.6},0).wait(1).to({x:1076.8,y:30.75},0).wait(1).to({x:1075.25,y:30.85},0).wait(1).to({x:1073.7,y:31},0).wait(1).to({x:1072.15,y:31.1},0).wait(1).to({x:1070.55,y:31.25},0).wait(1).to({x:1069,y:31.35},0).wait(1).to({x:1067.45,y:31.5},0).wait(1).to({x:1065.85,y:31.6},0).wait(1).to({x:1064.3,y:31.75},0).wait(1).to({x:1062.75,y:31.9},0).wait(1).to({x:1061.15,y:32},0).wait(1).to({x:1059.6,y:32.15},0).wait(1).to({x:1058.05,y:32.25},0).wait(1).to({x:1056.5,y:32.4},0).wait(1).to({x:1054.9,y:32.5},0).wait(1).to({x:1053.35,y:32.65},0).wait(1).to({x:1051.8,y:32.75},0).wait(1).to({x:1050.2,y:32.9},0).wait(1).to({x:1048.65,y:33},0).wait(1).to({x:1047.1,y:33.15},0).wait(1).to({x:1045.5,y:33.3},0).wait(1).to({x:1043.95,y:33.4},0).wait(1).to({x:1042.4,y:33.55},0).wait(1).to({x:1040.85,y:33.65},0).wait(1).to({x:1039.25,y:33.8},0).wait(1).to({x:1037.7,y:33.9},0).wait(1).to({x:1036.15,y:34.05},0).wait(1).to({x:1034.55,y:34.15},0).wait(1).to({x:1033,y:34.3},0).wait(1).to({x:1031.45,y:34.4},0).wait(1).to({x:1029.85,y:34.55},0).wait(1).to({x:1028.3,y:34.7},0).wait(1).to({x:1026.75,y:34.8},0).wait(1).to({x:1025.2,y:34.95},0).wait(1).to({x:1023.6,y:35.05},0).wait(1).to({x:1022.05,y:35.2},0).wait(1).to({x:1020.5,y:35.3},0).wait(1).to({x:1018.9,y:35.45},0).wait(1).to({x:1017.35,y:35.55},0).wait(1).to({x:1015.8,y:35.7},0).wait(1).to({x:1014.25,y:35.85},0).wait(1).to({x:1012.65,y:35.95},0).wait(1).to({x:1011.1,y:36.1},0).wait(1).to({x:1009.55,y:36.2},0).wait(1).to({x:1007.95,y:36.35},0).wait(1).to({x:1006.4,y:36.45},0).wait(1).to({x:1004.85,y:36.6},0).wait(1).to({x:1003.25,y:36.7},0).wait(1).to({x:1001.7,y:36.85},0).wait(1).to({x:1000.15,y:36.95},0).wait(1).to({x:998.6,y:37.1},0).wait(1).to({x:997,y:37.25},0).wait(1).to({x:995.45,y:37.35},0).wait(1).to({x:993.9,y:37.5},0).wait(1).to({x:992.3,y:37.6},0).wait(1).to({x:990.75,y:37.75},0).wait(1).to({x:989.2,y:37.85},0).wait(1).to({x:987.6,y:38},0).wait(1).to({x:986.05,y:38.1},0).wait(1).to({x:984.5,y:38.25},0).wait(1).to({x:982.95,y:38.35},0).wait(1).to({x:981.35,y:38.5},0).wait(1).to({x:979.8,y:38.65},0).wait(1).to({x:978.25,y:38.75},0).wait(1).to({x:976.65,y:38.9},0).wait(1).to({x:975.1,y:39},0).wait(1).to({x:973.55,y:39.15},0).wait(1).to({x:971.95,y:39.25},0).wait(1).to({x:970.4,y:39.4},0).wait(1).to({x:968.85,y:39.5},0).wait(1).to({x:967.3,y:39.6},0).wait(1).to({x:965.7,y:39.75},0).wait(1).to({x:964.15,y:39.85},0).wait(1).to({x:962.6,y:40},0).wait(1).to({x:961,y:40.1},0).wait(1).to({x:959.45,y:40.25},0).wait(1).to({x:957.9,y:40.35},0).wait(1).to({x:956.35,y:40.5},0).wait(1).to({x:954.75,y:40.6},0).wait(1).to({x:953.2,y:40.75},0).wait(1).to({x:951.65,y:40.85},0).wait(1).to({x:950.05,y:41},0).wait(1).to({x:948.5,y:41.15},0).wait(1).to({x:946.95,y:41.25},0).wait(1).to({x:945.35,y:41.4},0).wait(1).to({x:943.8,y:41.5},0).wait(1).to({x:942.25,y:41.65},0).wait(1).to({x:940.7,y:41.75},0).wait(1).to({x:939.1,y:41.9},0).wait(1).to({x:937.55,y:42},0).wait(1).to({x:936,y:42.15},0).wait(1).to({x:934.4,y:42.25},0).wait(1).to({x:932.85,y:42.4},0).wait(1).to({x:931.3,y:42.55},0).wait(1).to({x:929.7,y:42.65},0).wait(1).to({x:928.15,y:42.8},0).wait(1).to({x:926.6,y:42.9},0).wait(1).to({x:925.05,y:43.05},0).wait(1).to({x:923.45,y:43.15},0).wait(1).to({x:921.9,y:43.3},0).wait(1).to({x:920.35,y:43.4},0).wait(1).to({x:918.75,y:43.55},0).wait(1).to({x:917.2,y:43.65},0).wait(1).to({x:915.65,y:43.8},0).wait(1).to({x:914.1,y:43.95},0).wait(1).to({x:912.5,y:44.05},0).wait(1).to({x:910.95,y:44.2},0).wait(1).to({x:909.4,y:44.3},0).wait(1).to({x:907.8,y:44.45},0).wait(1).to({x:906.25,y:44.55},0).wait(1).to({x:904.7,y:44.7},0).wait(1).to({x:903.1,y:44.8},0).wait(1).to({x:901.55,y:44.95},0).wait(1).to({x:900,y:45.1},0).wait(1).to({x:898.45,y:45.2},0).wait(1).to({x:896.85,y:45.35},0).wait(1).to({x:895.3,y:45.45},0).wait(1).to({x:893.75,y:45.6},0).wait(1).to({x:892.15,y:45.7},0).wait(1).to({x:890.6,y:45.85},0).wait(1).to({x:889.05,y:45.95},0).wait(1).to({x:887.45,y:46.1},0).wait(1).to({x:885.9,y:46.2},0).wait(1).to({x:884.35,y:46.35},0).wait(1).to({x:882.8,y:46.5},0).wait(1).to({x:881.2,y:46.6},0).wait(1).to({x:879.65,y:46.75},0).wait(1).to({x:878.1,y:46.85},0).wait(1).to({x:876.5,y:47},0).wait(1).to({x:874.95,y:47.1},0).wait(1).to({x:873.4,y:47.25},0).wait(1).to({x:871.8,y:47.35},0).wait(1).to({x:870.25,y:47.5},0).wait(1).to({x:868.7,y:47.6},0).wait(1).to({x:867.15,y:47.75},0).wait(1).to({x:865.55,y:47.9},0).wait(1).to({x:864,y:48},0).wait(1).to({x:862.45,y:48.15},0).wait(1).to({x:860.85,y:48.25},0).wait(1).to({x:859.3,y:48.4},0).wait(1).to({x:857.75,y:48.5},0).wait(1).to({x:856.2,y:48.65},0).wait(1).to({x:854.6,y:48.75},0).wait(1).to({x:853.05,y:48.9},0).wait(1).to({x:851.5,y:49.05},0).wait(1).to({x:849.9,y:49.15},0).wait(1).to({x:848.35,y:49.3},0).wait(1).to({x:846.8,y:49.4},0).wait(1).to({x:845.2,y:49.55},0).wait(1).to({x:843.65,y:49.65},0).wait(1).to({x:842.1,y:49.8},0).wait(1).to({x:840.55,y:49.9},0).wait(1).to({x:838.95,y:50.05},0).wait(1).to({x:837.4,y:50.15},0).wait(1).to({x:835.85,y:50.3},0).wait(1).to({x:834.25,y:50.45},0).wait(1).to({x:832.7,y:50.55},0).wait(1).to({x:831.15,y:50.7},0).wait(1).to({x:829.55,y:50.8},0).wait(1).to({x:828,y:50.95},0).wait(1).to({x:826.45,y:51.05},0).wait(1).to({x:824.9,y:51.2},0).wait(1).to({x:823.3,y:51.3},0).wait(1).to({x:821.75,y:51.45},0).wait(1).to({x:820.2,y:51.55},0).wait(1).to({x:818.6,y:51.7},0).wait(1).to({x:817.05,y:51.85},0).wait(1).to({x:815.5,y:51.95},0).wait(1).to({x:813.9,y:52.1},0).wait(1).to({x:812.35,y:52.2},0).wait(1).to({x:810.8,y:52.35},0).wait(1).to({x:809.25,y:52.45},0).wait(1).to({x:807.65,y:52.6},0).wait(1).to({x:806.1,y:52.7},0).wait(1).to({x:804.55,y:52.85},0).wait(1).to({x:802.95,y:52.95},0).wait(1).to({x:801.4,y:53.1},0).wait(1).to({x:799.85,y:53.25},0).wait(1).to({x:798.3,y:53.35},0).wait(1).to({x:796.7,y:53.5},0).wait(1).to({x:795.15,y:53.6},0).wait(1).to({x:793.6,y:53.75},0).wait(1).to({x:792,y:53.85},0).wait(1).to({x:790.45,y:54},0).wait(1).to({x:788.9,y:54.1},0).wait(1).to({x:787.3,y:54.25},0).wait(1).to({x:785.75,y:54.4},0).wait(1).to({x:784.2,y:54.5},0).wait(1).to({x:782.65,y:54.65},0).wait(1).to({x:781.05,y:54.75},0).wait(1).to({x:779.5,y:54.9},0).wait(1).to({x:777.95,y:55},0).wait(1).to({x:776.35,y:55.15},0).wait(1).to({x:774.8,y:55.25},0).wait(1).to({x:773.25,y:55.4},0).wait(1).to({x:771.65,y:55.5},0).wait(1).to({x:770.1,y:55.65},0).wait(1).to({x:768.55,y:55.8},0).wait(1).to({x:767,y:55.9},0).wait(1).to({x:765.4,y:56.05},0).wait(1).to({x:763.85,y:56.15},0).wait(1).to({x:762.3,y:56.3},0).wait(1).to({x:760.7,y:56.4},0).wait(1).to({x:759.15,y:56.55},0).wait(1).to({x:757.6,y:56.65},0).wait(1).to({x:756.05,y:56.8},0).wait(1).to({x:754.45,y:56.9},0).wait(1).to({x:752.9,y:57.05},0).wait(1).to({x:751.35,y:57.2},0).wait(1).to({x:749.75,y:57.3},0).wait(1).to({x:748.2,y:57.45},0).wait(1).to({x:746.65,y:57.55},0).wait(1).to({x:745.05,y:57.7},0).wait(1).to({x:743.5,y:57.8},0).wait(1).to({x:741.95,y:57.95},0).wait(1).to({x:740.4,y:58.05},0).wait(1).to({x:738.8,y:58.2},0).wait(1).to({x:737.25,y:58.35},0).wait(1).to({x:735.7,y:58.45},0).wait(1).to({x:734.1,y:58.6},0).wait(1).to({x:732.55,y:58.7},0).wait(1).to({x:731,y:58.85},0).wait(1).to({x:729.4,y:58.95},0).wait(1).to({x:727.85,y:59.1},0).wait(1).to({x:726.3,y:59.2},0).wait(1).to({x:724.75,y:59.35},0).wait(1).to({x:723.15,y:59.45},0).wait(1).to({x:721.6,y:59.6},0).wait(1).to({x:720.05,y:59.75},0).wait(1).to({x:718.45,y:59.85},0).wait(1).to({x:716.9,y:60},0).wait(1).to({x:715.35,y:60.1},0).wait(1).to({x:713.75,y:60.25},0).wait(1).to({x:712.2,y:60.35},0).wait(1).to({x:710.65,y:60.5},0).wait(1).to({x:709.1,y:60.6},0).wait(1).to({x:707.5,y:60.75},0).wait(1).to({x:705.95,y:60.85},0).wait(1).to({x:704.4,y:61},0).wait(1).to({x:702.8,y:61.15},0).wait(1).to({x:701.25,y:61.25},0).wait(1).to({x:699.7,y:61.4},0).wait(1).to({x:698.15,y:61.5},0).wait(1).to({x:696.55,y:61.65},0).wait(1).to({x:695,y:61.75},0).wait(1).to({x:693.45,y:61.9},0).wait(1).to({x:691.85,y:62},0).wait(1).to({x:690.3,y:62.15},0).wait(1).to({x:688.75,y:62.25},0).wait(1).to({x:687.15,y:62.4},0).wait(1).to({x:685.6,y:62.55},0).wait(1).to({x:684.05,y:62.65},0).wait(1).to({x:682.5,y:62.8},0).wait(1).to({x:680.9,y:62.9},0).wait(1));
 
 	// Layer_5
 	this.instance_5 = new lib.Symbol15();
@@ -4590,6 +4563,31 @@ p.nominalBounds = new cjs.Rectangle(-109,-88.9,890.5,1013.6);
 }).prototype = p = new cjs.MovieClip();
 
 
+(lib.Scene_1_רקע_פתיחה = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// רקע_פתיחה
+	this.instance = new lib.Symbol7();
+	this.instance.setTransform(1162,-35,1,1,0,0,0,640,360);
+
+	this.instance_1 = new lib.ענן("synched",0);
+	this.instance_1.setTransform(157.25,83.55,1,1,0,0,0,98,51.6);
+
+	this.instance_2 = new lib.CachedBmp_80();
+	this.instance_2.setTransform(773.5,531.45,0.5,0.5);
+
+	this.instance_3 = new lib.CachedBmp_79();
+	this.instance_3.setTransform(804.4,555.25,0.5,0.5);
+
+	this.instance_4 = new lib.start();
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).to({state:[{t:this.instance_4}]},1).wait(210));
+
+	this._renderFirstFrame();
+
+}).prototype = p = new cjs.MovieClip();
+
+
 (lib.Scene_1_רקע_התחלת_בניה = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
@@ -4598,7 +4596,7 @@ p.nominalBounds = new cjs.Rectangle(-109,-88.9,890.5,1013.6);
 	this.instance.setTransform(-316.6,342.4,1,1,0,0,0,640,342.4);
 	this.instance._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(328).to({_off:false},0).wait(1).to({regY:360,x:-295.3,y:360},0).wait(1).to({x:-274.05},0).wait(1).to({x:-252.8},0).wait(1).to({x:-231.55},0).wait(1).to({x:-210.3},0).wait(1).to({x:-189.05},0).wait(1).to({x:-167.75},0).wait(1).to({x:-146.5},0).wait(1).to({x:-125.25},0).wait(1).to({x:-104},0).wait(1).to({x:-82.75},0).wait(1).to({x:-61.5},0).wait(1).to({x:-40.25},0).wait(1).to({x:-18.95},0).wait(1).to({x:2.3},0).wait(1).to({x:23.55},0).wait(1).to({x:44.8},0).wait(1).to({x:66.05},0).wait(1).to({x:87.3},0).wait(1).to({x:108.55},0).wait(1).to({x:129.85},0).wait(1).to({x:151.1},0).wait(1).to({x:172.35},0).wait(1).to({x:193.6},0).wait(1).to({x:214.85},0).wait(1).to({x:236.1},0).wait(1).to({x:257.35},0).wait(1).to({x:278.65},0).wait(1).to({x:299.9},0).wait(1).to({x:321.15},0).wait(1).to({x:342.4},0).wait(1).to({x:363.65},0).wait(1).to({x:384.9},0).wait(1).to({x:406.15},0).wait(1).to({x:427.45},0).wait(1).to({x:448.7},0).wait(1).to({x:469.95},0).wait(1).to({x:491.2},0).wait(1).to({x:512.45},0).wait(1).to({x:533.7},0).wait(1).to({x:554.95},0).wait(1).to({x:576.25},0).wait(1).to({x:597.5},0).wait(1).to({x:618.75},0).wait(1).to({x:640},0).wait(185));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(328).to({_off:false},0).wait(1).to({regX:118,regY:755,x:-817.3,y:755},0).wait(1).to({x:-796.05},0).wait(1).to({x:-774.8},0).wait(1).to({x:-753.55},0).wait(1).to({x:-732.3},0).wait(1).to({x:-711.05},0).wait(1).to({x:-689.75},0).wait(1).to({x:-668.5},0).wait(1).to({x:-647.25},0).wait(1).to({x:-626},0).wait(1).to({x:-604.75},0).wait(1).to({x:-583.5},0).wait(1).to({x:-562.25},0).wait(1).to({x:-540.95},0).wait(1).to({x:-519.7},0).wait(1).to({x:-498.45},0).wait(1).to({x:-477.2},0).wait(1).to({x:-455.95},0).wait(1).to({x:-434.7},0).wait(1).to({x:-413.45},0).wait(1).to({x:-392.15},0).wait(1).to({x:-370.9},0).wait(1).to({x:-349.65},0).wait(1).to({x:-328.4},0).wait(1).to({x:-307.15},0).wait(1).to({x:-285.9},0).wait(1).to({x:-264.65},0).wait(1).to({x:-243.35},0).wait(1).to({x:-222.1},0).wait(1).to({x:-200.85},0).wait(1).to({x:-179.6},0).wait(1).to({x:-158.35},0).wait(1).to({x:-137.1},0).wait(1).to({x:-115.85},0).wait(1).to({x:-94.55},0).wait(1).to({x:-73.3},0).wait(1).to({x:-52.05},0).wait(1).to({x:-30.8},0).wait(1).to({x:-9.55},0).wait(1).to({x:11.7},0).wait(1).to({x:32.95},0).wait(1).to({x:54.25},0).wait(1).to({x:75.5},0).wait(1).to({x:96.75},0).wait(1).to({x:118},0).wait(1).to({regX:640,regY:360,x:640,y:360},0).wait(184));
 
 	this._renderFirstFrame();
 
@@ -4749,7 +4747,7 @@ p.nominalBounds = new cjs.Rectangle(-109,-88.9,890.5,1013.6);
 	this.instance.setTransform(152,87.6,1,1,0,0,0,98,51.6);
 	this.instance._off = true;
 
-	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(711));
+	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({_off:false},0).wait(710).to({x:157.6,y:66.1},0).wait(1));
 
 	this._renderFirstFrame();
 
@@ -5311,7 +5309,7 @@ p.nominalBounds = new cjs.Rectangle(-206,-266.9,890.5,1108.9);
 	this.רקע_התחלת_בניה.layerIndex = 16
 	this.רקע_התחלת_בניה.maskLayerName = 0
 
-	this.timeline.addTween(cjs.Tween.get(this.רקע_התחלת_בניה).wait(329).to({regX:161.7,regY:360,x:161.7,y:360},0).wait(45).to({regX:0,regY:0,x:0,y:0},0).wait(183).to({_off:true},1).wait(154));
+	this.timeline.addTween(cjs.Tween.get(this.רקע_התחלת_בניה).wait(329).to({regX:-360.3,regY:755,x:-360.3,y:755},0).wait(45).to({regX:0,regY:0,x:0,y:0},0).wait(183).to({_off:true},1).wait(154));
 
 	// Layer_9_obj_
 	this.Layer_9 = new lib.Scene_1_Layer_9();
@@ -5472,7 +5470,7 @@ p.nominalBounds = new cjs.Rectangle(-206,-266.9,890.5,1108.9);
 	// רקע_פתיחה_obj_
 	this.רקע_פתיחה = new lib.Scene_1_רקע_פתיחה();
 	this.רקע_פתיחה.name = "רקע_פתיחה";
-	this.רקע_פתיחה.setTransform(640,360,1,1,0,0,0,640,360);
+	this.רקע_פתיחה.setTransform(640,342.5,1,1,0,0,0,640,342.5);
 	this.רקע_פתיחה.depth = 0;
 	this.רקע_פתיחה.isAttachedToCamera = 0
 	this.רקע_פתיחה.isAttachedToMask = 0
@@ -5497,7 +5495,7 @@ p.nominalBounds = new cjs.Rectangle(-206,-266.9,890.5,1108.9);
 	this._renderFirstFrame();
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-640,146.3,3200.6,756.9000000000001);
+p.nominalBounds = new cjs.Rectangle(-838.6,146.3,3399.2,968.7);
 // library properties:
 lib.properties = {
 	id: 'E61676ECD6B75648A37D7F6C0BE9B5A0',
@@ -5507,27 +5505,27 @@ lib.properties = {
 	color: "#66CCFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/CachedBmp_77.png?1598688734100", id:"CachedBmp_77"},
-		{src:"images/איפון_.png?1598688734100", id:"איפון"},
-		{src:"images/אישעומד_1.png?1598688734100", id:"אישעומד_1"},
-		{src:"images/ידלוחצת_.png?1598688734100", id:"ידלוחצת"},
-		{src:"images/Untitled_1_atlas_.png?1598688733620", id:"Untitled_1_atlas_"},
-		{src:"images/Untitled_1_atlas_2.png?1598688733620", id:"Untitled_1_atlas_2"},
-		{src:"images/Untitled_1_atlas_3.png?1598688733620", id:"Untitled_1_atlas_3"},
-		{src:"images/Untitled_1_atlas_4.png?1598688733620", id:"Untitled_1_atlas_4"},
-		{src:"images/Untitled_1_atlas_5.png?1598688733620", id:"Untitled_1_atlas_5"},
-		{src:"images/Untitled_1_atlas_6.png?1598688733620", id:"Untitled_1_atlas_6"},
-		{src:"images/Untitled_1_atlas_7.png?1598688733621", id:"Untitled_1_atlas_7"},
-		{src:"images/Untitled_1_atlas_8.png?1598688733621", id:"Untitled_1_atlas_8"},
-		{src:"images/Untitled_1_atlas_9.png?1598688733621", id:"Untitled_1_atlas_9"},
-		{src:"images/Untitled_1_atlas_10.png?1598688733621", id:"Untitled_1_atlas_10"},
-		{src:"images/Untitled_1_atlas_11.png?1598688733621", id:"Untitled_1_atlas_11"},
-		{src:"images/Untitled_1_atlas_12.png?1598688733622", id:"Untitled_1_atlas_12"},
-		{src:"images/Untitled_1_atlas_13.png?1598688733626", id:"Untitled_1_atlas_13"},
-		{src:"sounds/driveonlineaudioconvertercom.mp3?1598688734100", id:"driveonlineaudioconvertercom"},
-		{src:"sounds/emergency_alarm_002AudioTrimmercom.mp3?1598688734100", id:"emergency_alarm_002AudioTrimmercom"},
-		{src:"sounds/start_1.mp3?1598688734100", id:"start_1"},
-		{src:"sounds/סוף_.mp3?1598688734100", id:"סוף"}
+		{src:"images/CachedBmp_77.png?1598693338409", id:"CachedBmp_77"},
+		{src:"images/איפון_.png?1598693338409", id:"איפון"},
+		{src:"images/אישעומד_1.png?1598693338409", id:"אישעומד_1"},
+		{src:"images/ידלוחצת_.png?1598693338409", id:"ידלוחצת"},
+		{src:"images/Untitled_1_atlas_.png?1598693337954", id:"Untitled_1_atlas_"},
+		{src:"images/Untitled_1_atlas_2.png?1598693337954", id:"Untitled_1_atlas_2"},
+		{src:"images/Untitled_1_atlas_3.png?1598693337954", id:"Untitled_1_atlas_3"},
+		{src:"images/Untitled_1_atlas_4.png?1598693337955", id:"Untitled_1_atlas_4"},
+		{src:"images/Untitled_1_atlas_5.png?1598693337955", id:"Untitled_1_atlas_5"},
+		{src:"images/Untitled_1_atlas_6.png?1598693337955", id:"Untitled_1_atlas_6"},
+		{src:"images/Untitled_1_atlas_7.png?1598693337955", id:"Untitled_1_atlas_7"},
+		{src:"images/Untitled_1_atlas_8.png?1598693337955", id:"Untitled_1_atlas_8"},
+		{src:"images/Untitled_1_atlas_9.png?1598693337955", id:"Untitled_1_atlas_9"},
+		{src:"images/Untitled_1_atlas_10.png?1598693337956", id:"Untitled_1_atlas_10"},
+		{src:"images/Untitled_1_atlas_11.png?1598693337956", id:"Untitled_1_atlas_11"},
+		{src:"images/Untitled_1_atlas_12.png?1598693337957", id:"Untitled_1_atlas_12"},
+		{src:"images/Untitled_1_atlas_13.png?1598693337961", id:"Untitled_1_atlas_13"},
+		{src:"sounds/driveonlineaudioconvertercom.mp3?1598693338409", id:"driveonlineaudioconvertercom"},
+		{src:"sounds/emergency_alarm_002AudioTrimmercom.mp3?1598693338409", id:"emergency_alarm_002AudioTrimmercom"},
+		{src:"sounds/start_1.mp3?1598693338409", id:"start_1"},
+		{src:"sounds/סוף_.mp3?1598693338409", id:"סוף"}
 	],
 	preloads: []
 };
